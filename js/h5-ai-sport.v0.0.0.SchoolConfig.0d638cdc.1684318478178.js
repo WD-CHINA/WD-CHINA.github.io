@@ -1,0 +1,1 @@
+import{aE as t}from"./h5-ai-sport.v0.0.0.index.95bda2e2.1684318478178.js";const s=t({id:"School",state:()=>({schoolInfo:{id:"",name:""}}),getters:{getSchoolInfo(){return this.schoolInfo||null}},actions:{setSchoolInfo(o){this.schoolInfo=o}}});export{s as u};
