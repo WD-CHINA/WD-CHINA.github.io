@@ -1,0 +1,1 @@
+import{d as s,u as t,b as n,o as a,c,e as u}from"./h5-ai-sport.v0.0.0.index.eb36d521.1684379358906.js";const l=s({__name:"index",setup(p){const r=t(),o=n();return a(()=>{var e;((e=r.userInfo)==null?void 0:e.roleCode)==="ROLE_TEACHER"?o.replace("/grade"):o.replace("/home")}),(e,_)=>(c(),u("div"))}});export{l as default};

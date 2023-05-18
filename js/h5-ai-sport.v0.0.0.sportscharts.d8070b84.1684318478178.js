@@ -1,1 +1,0 @@
-import{aH as e}from"./h5-ai-sport.v0.0.0.index.95bda2e2.1684318478178.js";const a=r=>e.get({url:"/user/gameSummary",params:r}),s=r=>e.get({url:"/user/gameTrend",params:r}),m=r=>e.get({url:"/user/gameDetail",params:r});export{s as a,m as b,a as g};
