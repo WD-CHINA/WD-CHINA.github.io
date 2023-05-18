@@ -1,0 +1,1 @@
+import{aE as e}from"./h5-ai-sport.v0.0.0.index.a6c8dc0f.1684379857111.js";const i=e({id:"Setting",state:()=>({bgMusic:!0}),persist:!0,getters:{getBgMusic(){return this.bgMusic}},actions:{setBgMusic(t){this.bgMusic=t}}});export{i as u};
